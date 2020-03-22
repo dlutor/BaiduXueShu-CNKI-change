@@ -3,7 +3,7 @@
 // @name         百度学术知网旧版链接转换
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  解决百度学术搜索结果中旧版知网链接替换为新版知网链接
+// @description  解决百度学术搜索结果中旧版知网链接替换为新版知网链接,https://github.com/dlutor/BaiduXueShu-CNKI-change
 // @author       dlutor
 // @match        *://xueshu.baidu.com/*
 // @include      */usercenter/paper/*
